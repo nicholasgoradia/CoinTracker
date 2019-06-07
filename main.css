@@ -1,0 +1,18 @@
+#title {
+    font-size: 60px;
+    font-family: Cinzel, monospace; 
+    color: rgb(255, 0, 98)
+}
+#coin-picture {
+    width: 500px;
+    border-radius: 15px;
+}
+body {
+    background-color: lightblue;
+}
+input {
+    width: 100px;
+}
+p {
+    white-space: pre;
+}
